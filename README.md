@@ -1,8 +1,8 @@
 # O-silly-scope
 
-O-silly-scope is a proof-of-concept project for generating visuals on an XY oscilloscope using stereo audio signals. By converting audio files into voltage signals, this project explores how sound can create striking patterns and designs on a physical oscilloscope.
+O-silly-scope is a proof-of-concept project for generating visuals on an XY oscilloscope using stereo audio signals. By converting audio files into voltage signals, this project explores how sound can create patterns and designs on a physical oscilloscope.
 
-While currently a personal experiment, O-silly-scope has the potential to be developed into a reusable package for creative audio-visual explorations.
+While currently a personal experiment, O-silly-scope is under development to become a reusable package for creative audio-visual exploration.
 
 Overview
 This project demonstrates:
@@ -19,7 +19,8 @@ Requirements
 To run the current proof of concept, you’ll need:
 
 An oscilloscope with XY input capabilities.
-A computer capable of audio output and Python scripting.
+A computer capable of audio output and Python scripting. I have noticed that the quality of your devices audio output is critical. While this worked using my HP Pavillion laptop, it did not work with all computer devices in my home. If attempting to recreate this image, please keep this in mind and try out other devices if needed. 
+
 Dependencies
 Install the following Python libraries before running the project:
 
@@ -65,4 +66,4 @@ This project is available under the MIT License. See the LICENSE file for more i
 
 Additional Notes
 This is a personal experiment, and results may vary depending on your oscilloscope's settings and capabilities.
-Start with lower audio volumes to avoid hardware damage.
+Start with lower audio volumes to avoid hardware damage!!! 
