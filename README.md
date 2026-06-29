@@ -59,7 +59,7 @@ Connect your computer's audio output to the oscilloscope's XY input and adjust t
 
 While on might further work with the audio generation, etc. to sharpen and refine this project, my objective was took make an audio output which rendered legible text. You can see my output for the channels.wav audio file included in this repository, below! You will notice my configuration in terms of scaling, etc. 
 
-<!-- ![Oscilloscope Demo Image](images/osillyscope-output.jpg) -->
+![Oscilloscope Demo Image](images/osillyscope-output.jpg)
 
 
 ## Current Limitations
